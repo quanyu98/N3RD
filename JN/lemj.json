@@ -13,7 +13,7 @@
 {"key":"drjs_29片库[密]","name":"👺29片库[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/29片库[密].js"},
 {"key":"drjs_番号资源[密]","name":"👺番号资源[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/番号资源[密].js"},
 {"key":"drjs_36直播[密]","name":"👺36直播[密](DRPY)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/36直播[密].js"},
-    {"key":"drjs_腾讯4k[优]","name":"雷蒙影视 | 👺腾讯4k[优](DRPY)","type":3,"api":"./drpy_libs/drpy2.min.js","ext":"./dr_py/js/腾讯4k[优].js"}
+{"key":"drjs_腾讯4k[优]","name":"雷蒙影视 | 👺腾讯4k[优](DRPY)","type":3,"api":"./drpy_libs/drpy2.min.js","ext":"./dr_py/js/腾讯4k[优].js"}
 
 
 {"key":"push_agent","name":" | ⬆推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/ctv/pg.txt","jar":"./N3RD/J/pg.jar"}
